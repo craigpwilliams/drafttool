@@ -3,7 +3,7 @@ Joe Burrow,QB,1,$67,CIN
 Lamar Jackson,QB,2,$54,BAL
 Josh Allen,QB,3,$52,BUF
 Jayden Daniels,QB,4,$40,WAS
-Patrick Mahomes II,QB,5,$35,KC
+Patrick Mahomes,QB,5,$35,KC
 Baker Mayfield,QB,6,$33,TB
 Jalen Hurts,QB,7,$19,PHI
 Jared Goff,QB,8,$11,DET
@@ -53,7 +53,7 @@ Breece Hall,RB,14,$38,NYJ
 Joe Mixon,RB,15,$36,HOU
 James Conner,RB,16,$31,ARI
 Alvin Kamara,RB,17,$31,NO
-Kenneth Walker III,RB,18,$29,SEA
+Kenneth WalkerIII,RB,18,$29,SEA
 Aaron Jones Sr.,RB,19,$22,MIN
 Omarion Hampton,RB,20,$21,LAC
 D'Andre Swift,RB,21,$20,CHI
@@ -141,5 +141,5 @@ Wan'Dale Robinson,WR,59,$0,NYG
 Tre Harris,WR,60,$0,LAC
 Quentin Johnston,WR,61,$0,LAC
 Jack Bech,WR,62,$0,LV
-Luther Burden III,WR,63,$0,CHI
+Luther Burden,WR,63,$0,CHI
 Cedric Tillman,WR,64,$0,CLE
