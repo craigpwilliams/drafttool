@@ -1,16 +1,145 @@
-Name,Position,Team,ProjectedPoints,AAV,ADP
-Christian McCaffrey,RB,SF,345.1,60,1.5
-Justin Jefferson,WR,MIN,320.5,58,2.0
-Josh Allen,QB,BUF,400.0,33,10.0
-Travis Kelce,TE,KC,290.0,45,5.0
-Tyreek Hill,WR,MIA,310.0,52,4.0
-Austin Ekeler,RB,LAC,330.0,55,3.0
-Jalen Hurts,QB,PHI,395.0,30,12.0
-Amon-Ra St. Brown,WR,DET,275.0,35,15.0
-Mark Andrews,TE,BAL,240.0,25,20.0
-Justin Tucker,K,BAL,145.0,3,80.0
-San Francisco 49ers,DEF,SF,130.0,2,90.0
-Bijan Robinson,RB,ATL,310.0,50,6.0
-CeeDee Lamb,WR,DAL,295.0,48,7.0
-Patrick Mahomes,QB,KC,390.0,32,11.0
-Tony Pollard,RB,DAL,280.0,40,18.0
+COST,Team,Player,Posistion,#
+$67,CIN,Joe Burrow,QB,1
+$54,BAL,Lamar Jackson,QB,2
+$52,BUF,Josh Allen,QB,3
+$40,WAS,Jayden Daniels,QB,4
+$35,KC,Patrick Mahomes II,QB,5
+$33,TB,Baker Mayfield,QB,6
+$19,PHI,Jalen Hurts,QB,7
+$11,DET,Jared Goff,QB,8
+$8,SF,Brock Purdy,QB,9
+$7,ARI,Kyler Murray,QB,10
+$6,DEN,Bo Nix,QB,11
+$0,DAL,Dak Prescott,QB,12
+$0,MIN,J.J. McCarthy,QB,13
+$0,LAC,Justin Herbert,QB,14
+$0,CHI,Caleb Williams,QB,15
+$0,HOU,C.J. Stroud,QB,16
+$0,MIA,Tua Tagovailoa,QB,17
+$0,GB,Jordan Love,QB,18
+$0,LAR,Matthew Stafford,QB,19
+$0,NYJ,Justin Fields,QB,20
+$0,JAC,Trevor Lawrence,QB,21
+$0,LV,Geno Smith,QB,22
+$0,SEA,Sam Darnold,QB,23
+$0,ATL,Michael Penix Jr.,QB,24
+$59,LV,Brock Bowers,TE,1
+$53,ARI,Trey McBride,TE,2
+$52,SF,George Kittle,TE,3
+$31,DET,Sam LaPorta,TE,4
+$28,BAL,Mark Andrews,TE,5
+$27,KC,Travis Kelce,TE,6
+$23,CLE,David Njoku,TE,7
+$19,MIN,T.J. Hockenson,TE,8
+$6,DAL,Jake Ferguson,TE,9
+$5,PHI,Dallas Goedert,TE,10
+$4,GB,Tucker Kraft,TE,11
+$4,DEN,Evan Engram,TE,12
+$0,WAS,Zach Ertz,TE,13
+$91,ATL,Bijan Robinson,RB,1
+$90,DET,Jahmyr Gibbs,RB,2
+$88,PHI,Saquon Barkley,RB,3
+$76,BAL,Derrick Henry,RB,4
+$71,SF,Christian McCaffrey,RB,5
+$65,GB,Josh Jacobs,RB,6
+$64,MIA,De'Von Achane,RB,7
+$54,LV,Ashton Jeanty,RB,8
+$52,TB,Bucky Irving,RB,9
+$51,IND,Jonathan Taylor,RB,10
+$48,LAR,Kyren Williams,RB,11
+$46,BUF,James Cook,RB,12
+$40,CIN,Chase Brown,RB,13
+$38,NYJ,Breece Hall,RB,14
+$36,HOU,Joe Mixon,RB,15
+$31,ARI,James Conner,RB,16
+$31,NO,Alvin Kamara,RB,17
+$29,SEA,Kenneth Walker III,RB,18
+$22,MIN,Aaron Jones Sr.,RB,19
+$21,LAC,Omarion Hampton,RB,20
+$20,CHI,D'Andre Swift,RB,21
+$15,CAR,Chuba Hubbard,RB,22
+$13,DET,David Montgomery,RB,23
+$9,TEN,Tony Pollard,RB,24
+$0,NE,TreVeyon Henderson,RB,25
+$0,NYG,Tyrone Tracy Jr.,RB,26
+$0,WAS,Brian Robinson Jr.,RB,27
+$0,KC,Isiah Pacheco,RB,28
+$0,PIT,Kaleb Johnson,RB,29
+$0,CLE,Quinshon Judkins,RB,30
+$0,DEN,RJ Harvey,RB,31
+$0,PIT,Jaylen Warren,RB,32
+$0,DAL,Javonte Williams,RB,33
+$0,WAS,Austin Ekeler,RB,34
+$0,LAC,Najee Harris,RB,35
+$0,JAC,Travis Etienne Jr.,RB,36
+$0,NYG,Cam Skattebo,RB,37
+$0,NE,Rhamondre Stevenson,RB,38
+$0,TB,Rachaad White,RB,39
+$0,SEA,Zach Charbonnet,RB,40
+$0,TEN,Tyjae Spears,RB,41
+$0,JAC,Tank Bigsby,RB,42
+$0,MIN,Jordan Mason,RB,43
+$84,CIN,Ja'Marr Chase,WR,1
+$56,MIN,Justin Jefferson,WR,2
+$49,DAL,CeeDee Lamb,WR,3
+$45,DET,Amon-Ra St. Brown,WR,4
+$45,LAR,Puka Nacua,WR,5
+$38,NYG,Malik Nabers,WR,6
+$37,JAC,Brian Thomas Jr.,WR,7
+$37,HOU,Nico Collins,WR,8
+$30,LAC,Ladd McConkey,WR,9
+$28,CIN,Tee Higgins,WR,10
+$26,TB,Mike Evans,WR,11
+$26,ATL,Drake London,WR,12
+$25,MIA,Tyreek Hill,WR,13
+$23,PHI,A.J. Brown,WR,14
+$21,WAS,Terry McLaurin,WR,15
+$15,LAR,Davante Adams,WR,16
+$15,SEA,Jaxon Smith-Njigba,WR,17
+$13,ARI,Marvin Harrison Jr.,WR,18
+$11,PIT,DK Metcalf,WR,19
+$11,NYJ,Garrett Wilson,WR,20
+$8,BAL,Zay Flowers,WR,21
+$6,CHI,DJ Moore,WR,22
+$5,DEN,Courtland Sutton,WR,23
+$2,PHI,DeVonta Smith,WR,24
+$0,TEN,Calvin Ridley,WR,25
+$0,KC,Xavier Worthy,WR,26
+$0,DET,Jameson Williams,WR,27
+$0,CLE,Jerry Jeudy,WR,28
+$0,LV,Jakobi Meyers,WR,29
+$0,DAL,George Pickens,WR,30
+$0,KC,Rashee Rice,WR,31
+$0,MIA,Jaylen Waddle,WR,32
+$0,WAS,Deebo Samuel Sr.,WR,33
+$0,TB,Chris Godwin,WR,34
+$0,MIN,Jordan Addison,WR,35
+$0,SF,Jauan Jennings,WR,36
+$0,JAC,Travis Hunter,WR,37
+$0,GB,Jayden Reed,WR,38
+$0,NO,Chris Olave,WR,39
+$0,CHI,Rome Odunze,WR,40
+$0,SEA,Cooper Kupp,WR,41
+$0,GB,Matthew Golden,WR,42
+$0,NE,Stefon Diggs,WR,43
+$0,ATL,Darnell Mooney,WR,44
+$0,NO,Rashid Shaheed,WR,45
+$0,IND,Michael Pittman Jr.,WR,46
+$0,BUF,Keon Coleman,WR,47
+$0,BUF,Khalil Shakir,WR,48
+$0,DEN,Marvin Mims Jr.,WR,49
+$0,SF,Ricky Pearsall,WR,50
+$0,SF,Brandon Aiyuk,WR,51
+$0,IND,Josh Downs,WR,52
+$0,CAR,Adam Thielen,WR,53
+$0,CAR,Tetairoa McMillan,WR,54
+$0,KC,Marquise Brown,WR,55
+$0,HOU,Christian Kirk,WR,56
+$0,BAL,Rashod Bateman,WR,57
+$0,CAR,Xavier Legette,WR,58
+$0,NYG,Wan'Dale Robinson,WR,59
+$0,LAC,Tre Harris,WR,60
+$0,LAC,Quentin Johnston,WR,61
+$0,LV,Jack Bech,WR,62
+$0,CHI,Luther Burden III,WR,63
+$0,CLE,Cedric Tillman,WR,64
