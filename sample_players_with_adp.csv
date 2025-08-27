@@ -166,11 +166,11 @@ Cam Ward,QB,TEN
 Jaxson Dart,QB,NYG
 Dillon Gabriel,QB,CLE
 Tyler Shough,QB,NO
-Other QB1,QB,OTH
-Other QB2,QB,OTH
-Other QB3,QB,OTH
-Other QB4,QB,OTH
-Other QB5,QB,OTH
+QB Other,QB,OTH
+QB Other,QB,OTH
+QB Other,QB,OTH
+QB Other,QB,OTH
+QB Other,QB,OTH
 Kyle Juszczyk,RB,SF
 Michael Burton,RB,DEN
 Raheem Mostert,RB,LV
@@ -398,11 +398,11 @@ Lawrance Toafili,RB,NYJ
 Nay'Quan Wright,RB,IND
 Shane Watts,RB,NE
 Quinshon Judkins,RB,CLE
-Other RB1,RB,OTH
-Other RB2,RB,OTH
-Other RB3,RB,OTH
-Other RB4,RB,OTH
-Other RB5,RB,OTH
+RB Other,RB,OTH
+RB Other,RB,OTH
+RB Other,RB,OTH
+RB Other,RB,OTH
+RB Other,RB,OTH
 Zach Ertz,TE,WAS
 Travis Kelce,TE,KC
 Chris Manhertz,TE,NYG
@@ -604,11 +604,11 @@ Mitch Van Vooren,TE,CLE
 Mason Taylor,TE,NYJ
 Terrance Ferguson,TE,LA
 Elijah Arroyo,TE,SEA
-Other TE1,TE,OTH
-Other TE2,TE,OTH
-Other TE3,TE,OTH
-Other TE4,TE,OTH
-Other TE5,TE,OTH
+TE Other,TE,OTH
+TE Other,TE,OTH
+TE Other,TE,OTH
+TE Other,TE,OTH
+TE Other,TE,OTH
 Adam Thielen,WR,CAR
 Keenan Allen,WR,LAC
 Robert Woods,WR,PIT
@@ -998,11 +998,11 @@ Jaden Smith,WR,TB
 Roderick Daniels Jr.,WR,NO
 Phil Lutz,WR,NE
 Isaiah Bond,WR,CLE
-Other WR1,WR,OTH
-Other WR2,WR,OTH
-Other WR3,WR,OTH
-Other WR4,WR,OTH
-Other WR5,WR,OTH
+WR Other,WR,OTH
+WR Other,WR,OTH
+WR Other,WR,OTH
+WR Other,WR,OTH
+WR Other,WR,OTH
 Jets,DST,NYJ
 Giants,DST,NYG
 Packers,DST,GB
